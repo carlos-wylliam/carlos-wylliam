@@ -11,7 +11,7 @@ Sou apenas um estudante de programação tenho um total de 4 meses de estudo e a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-wylliam&repo=jornadadev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### inguagens Utilizadas
+### Linguagens Utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-wylliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
