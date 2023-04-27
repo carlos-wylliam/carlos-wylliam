@@ -8,7 +8,7 @@ Hey! I'm Carlos Wylliam, I'm 19 years old, and I started my front-end studies 3 
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [carloswylliam023@gmail.com](mailto:carloswylliam023@gmail.com)
-* 🧠  I'm learning HTML and CSS
+* 🧠  I'm learning Javascript
 
 ### Skills
 
