@@ -24,7 +24,8 @@
 </div>
 <div align="center">
 
-  ![Snake animation](https://github.com/carlos-wylliam/carlos-wylliam/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]( https://github.com/carlos-wylliam/carlos-wylliam/blob/output/github-contribution-grid-snake.svg)
+  https://github.com/carlos-wylliam/carlos-wylliam
   
 </div>
 
