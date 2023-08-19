@@ -1,6 +1,7 @@
-## Olá! Eu sou o Carlos Wylliam
-- 🌱 Hoje foco meus estudos como Desenvolvedor back-end 
-- 🧠 Estudando node.js
+# Olá pessoal!
+:cowboy_hat_face:Olá, sou Carlos Wylliam sou desenvolvedor back-end desde 2022. Atualmente, estou concentrado em aprofundar meus conhecimentos em PostgreSQL, enquanto curso Análise e Desenvolvimento de Sistemas.
+
+##
 
 <a href="https://github.com/carlos-wylliam/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-wylliam&theme=dracula" />
@@ -10,12 +11,11 @@
 </a>
 
  ##
-<div style="display: inline_block"><br>
-  <img align="center" alt="wylliam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="wylliam-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="wylliam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="wylliam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,nodejs,express" />
+  </a>
+</p>
 
 ##
 <div>
