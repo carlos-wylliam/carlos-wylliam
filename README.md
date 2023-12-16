@@ -1,5 +1,5 @@
 # Olá pessoal!
-:cowboy_hat_face:Olá, sou Carlos Wylliam sou desenvolvedor back-end desde 2022. Atualmente, estou concentrado em aprofundar meus conhecimentos em PostgreSQL, enquanto curso Análise e Desenvolvimento de Sistemas.
+:cowboy_hat_face:Olá, sou Carlos Wylliam sou desenvolvedor back-end desde 2022. Atualmente, estou direcionando meus esforços ao estudo de desenvolvimento web front-end, e atualmente estou estudante de análise e desenvolvimento de sistemas na UNIPÊ.
 
 ##
 
