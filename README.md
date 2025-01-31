@@ -1,5 +1,5 @@
 # Olá pessoal!
-🚀 Olá! Sou Carlos Wylliam, desenvolvedor back-end com experiência em JavaScript, Node.js, Express e SQL (PostgreSQL). Também tenho conhecimento em TypeScript, Nest.js, Docker e Jest. Desde 2022, venho aprimorando minhas habilidades em desenvolvimento web e, recentemente, estou aprofundando meus estudos no ecossistema .NET, incluindo ASP.NET e Blazor. Sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia!
+🚀 Olá! Sou Carlos Wylliam, desenvolvedor back-end com experiência em JavaScript, Node.js, Express e SQL (PostgreSQL). Também tenho conhecimento em TypeScript, Nest.js, Docker e Jest. Sou formado em Análise e Desenvolvimento de Sistemas pela UNIPÊ e, recentemente, estou aprofundando meus estudos no ecossistema .NET, incluindo ASP.NET e Blazor. Sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia!
 
 ##
 
