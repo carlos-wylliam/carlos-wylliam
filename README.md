@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/carlos-wylliam/carlos-wylliam/main/banner.jpg
-" width="340px" style="border-radius: 8px; filter: brightness(0.9);" />
+" width="340px"/>
 
 <br/>
 <br/>
