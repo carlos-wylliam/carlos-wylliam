@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/carlos-wylliam/carlos-wylliam/main/banner.jpg )
+<img src="https://raw.githubusercontent.com/carlos-wylliam/carlos-wylliam/main/banner.jpg" width="340" />
 
 <br/>
 <br/>
