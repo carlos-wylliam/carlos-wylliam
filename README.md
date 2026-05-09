@@ -1,26 +1,80 @@
-# Olá pessoal!
-🚀 Olá! Sou Carlos Wylliam, desenvolvedor back-end com experiência em JavaScript, Node.js, Express e SQL (PostgreSQL). Também tenho conhecimento em TypeScript, Nest.js, Docker e Jest. Sou formado em Análise e Desenvolvimento de Sistemas pela UNIPÊ e, recentemente, estou aprofundando meus estudos no ecossistema .NET, incluindo ASP.NET e Blazor. Sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia!
-
-##
-
-<a href="https://github.com/carlos-wylliam/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-wylliam&theme=dracula" />
-</a>
-<a href="https://github.com/carlos-wylliam/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-wylliam&layout=compact&theme=dracula&langs_count=8&card_width=320" />
-</a>
-
- ##
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,nodejs,express,postgres,figma,cs,dotnet,ts,prisma" />
-  </a>
-</p>
-
-##
-<div>
-  <a href = "mailto:carloswylliam023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-wylliam-390305231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 <div align="center">
+
+<img src="banner.jpg
+" width="340px" style="border-radius: 8px; filter: brightness(0.9);" />
+
+<br/>
+<br/>
+
+```
+"The craft is not in the language. It's in the architecture."
+```
+
+</div>
+
+---
+
+## The Architect
+
+I build things that hold under pressure — backends that don't break, systems that don't leak, logic that doesn't lie.
+
+Currently studying Data Science to understand not just *how* things run, but *why* the numbers say what they say.
+
+> I'm not here to ship features. I'm here to ship certainty.
+
+---
+
+## Stack
+
+**Foundation**
+```
+Node.js · TypeScript · Express · Prisma
+```
+
+**Infrastructure**
+```
+Docker · PostgreSQL · SQL Server · MySQL
+```
+
+**Currently Learning**
+```
+Python · Pandas · SQL Analysis
+```
+
+---
+
+## What I'm Building Now
+
+| Project | Role | Status |
+|---|---|---|
+| [`portfolio`](https://github.com/carlos-wylliam/portfolio) | Frontend — full ownership | 🔨 In progress |
+| [`orange-portfolio-backend`](https://github.com/vinicioscst/orange-portfolio-backend-squad24) | Backend — Hackathon squad | ✅ Shipped |
+
+---
+
+## The Timeline
+
+```
+2022 ──── First line of code
+2023 ──── Backend starts to click
+2024 ──── Hackathon. Systems at scale. First real pressure.
+2025 ──── Data Science enters the picture.
+now  ──── Building the bridge between the two.
+```
+
+---
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-wylliam)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlos-wylliam)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Software Engineer & Data Science Student · João Pessoa, BR</sub>
 </div>
